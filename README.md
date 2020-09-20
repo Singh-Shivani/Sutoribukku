@@ -19,5 +19,18 @@
 <p align="center">
   <img src="MANGA BOOK APP UI/MANGA CHAPER SCREEN.png" alt="Logo" width = 23%  hspace = 100  />
   <img src="MANGA BOOK APP UI/DEMON SLAYER SCREEN.png" alt="Logo" width = 23% />    
-  
 </p>
+
+
+### HOW TO USE IT? 🧐
+
+- Prerequisite- If you want to see core of the design then open and acount on  <a href="https://www.figma.com/"> Figma.</a> ✌️
+  1. Download the ```MANGA APP UI.fig```  file from the repository located in branch ```master```
+
+       <p align="center">
+           <img src="Figma.png" alt="Logo" width = 85%> 
+       </p>
+
+   2. Click on "IMPORT" button as shown in the above image. Choose the file you've saved and you're done!🥳
+
+   3. Manipulate and customize the design in your way! 
