@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Singh-Shivani/Sutoribukku"> 
-    <img src="MANGA BOOK APP UI/POSTER.png" alt="Logo" width = 95%> 
+    <img src="MANGA BOOK APP UI/POSTER.png" alt="Logo" width = 85%> 
     </a>
 </p>
 <p align ="center"> 
