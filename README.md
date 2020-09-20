@@ -34,3 +34,9 @@
    2. Click on "IMPORT" button as shown in the above image. Choose the file you've saved and you're done!🥳
 
    3. Manipulate and customize the design in your way! 
+   
+   
+   
+### ON FIGMA 🔗
+- Click here to see the design on figma 
+<a href="https://www.figma.com/file/pDhKEL362291fgUVtINiu2/MANGA-BOOK-APP-UI?node-id=0%3A1">Manga App UI Design ⚡</a>
