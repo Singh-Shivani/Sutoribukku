@@ -24,7 +24,7 @@
 
 ### HOW TO USE IT? 🧐
 
-- Prerequisite- If you want to see core of the design then open and acount on  <a href="https://www.figma.com/"> Figma.</a> ✌️
+- Prerequisite- If you want to see core of the design then open an acount on  <a href="https://www.figma.com/"> Figma.</a> ✌️
   1. Download the ```MANGA APP UI.fig```  file from the repository located in branch ```master```
 
        <p align="center">
@@ -38,5 +38,5 @@
    
    
 ### ON FIGMA 🔗
-- Click here to see the design on figma 
+- Click here to see the design on figma   
 <a href="https://www.figma.com/file/pDhKEL362291fgUVtINiu2/MANGA-BOOK-APP-UI?node-id=0%3A1">Manga App UI Design ⚡</a>
